@@ -1,0 +1,9 @@
+Add FirstName && LastName to User Model
+    columns for FirstName && LastName
+    methods toSafeObject() && signup()
+
+Add FirstName & LastName to Users Migration File
+
+Update POST /api/users with FirstName & LastName
+    update deconstruct req.body
+    update user variable signup
